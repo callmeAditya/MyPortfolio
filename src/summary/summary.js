@@ -11,7 +11,7 @@ const Summary = ()=>{
                 Hi, I am Aditya Rana
             </h1>
             <p className='description'>
-                I am a full stack engineer with over 2 years of experience in Reactjs and node. Reach out to me for further oopotunities.
+               <i> I am a full stack engineer with over 2 years of experience in Reactjs and Node. Reach out to me for further opportunities. </i>
             </p>
             <a className='contactBtn' href='mailto:aditya.rana.se@gmail.com' >Contact Me </a>
         </div>

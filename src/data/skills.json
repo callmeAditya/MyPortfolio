@@ -26,5 +26,13 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Wordpress",
+    "imageSrc": "skills/wordpress.png"
+  },
+  {
+    "title": "Flutter",
+    "imageSrc": "skills/flutter.png"
   }
 ]

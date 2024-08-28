@@ -7,12 +7,6 @@ import { getImageUrl } from "../utils";
 
 export const Experience = () => {
 
-  useEffect(()=>{
-    const slider = document.querySelectorAll('#slides');
-    slider.forEach((s,i)=>{
-      s.style.transform = `translateX(${100*i}%)`;
-    })
-  },[])
 
 
   return (

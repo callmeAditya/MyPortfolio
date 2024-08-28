@@ -24,8 +24,8 @@ export const Contact = () => {
   return (
     <footer id="contact" className={"contact_container"}>
       <div className={"text"}>
-        <h2>Contact</h2>
-        <p>Feel free to reach out!</p>
+        <h2>Contact 🧑🏻‍💻</h2>
+        <p>Feel free to reach out! 📞</p>
       </div>
       <ul className={"contact_links"}>
       { contacts.map((item,key)=> 
