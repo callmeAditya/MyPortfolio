@@ -1,11 +1,13 @@
-import React from "react";
+import React, { useEffect } from "react";
 
 import "./ProjectCard.scss";
 import { getImageUrl } from "../utils";
 
 export const ProjectCard = ({
-  project: { title, imageSrc, description, skills, demo, source },
+  project: { title, imageSrc, description, skills, demo, source, position },
 }) => {
+ 
+
   return (
     <div className={"projectcard_container"}>
       <img

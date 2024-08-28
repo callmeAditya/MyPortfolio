@@ -15,6 +15,7 @@
   text-transform: uppercase;
 }
 
+
 .experience_content {
   display: flex;
   flex-direction: row;
@@ -56,6 +57,11 @@
   font-weight: 500;
 }
 
+.bullets{
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
 .history {
   width: 45%;
   display: flex;
@@ -94,7 +100,7 @@
 
 .historyItemDetails ul {
   margin-top: 6px;
-  list-style-position: inside;
+  
   font-size: 25px;
   list-style-type: disc;
   margin-left: 17px;

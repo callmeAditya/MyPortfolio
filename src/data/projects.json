@@ -1,17 +1,33 @@
 [
   {
-    "title": "Project A",
+    "title": "MireAI Panasonic",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "Developed a 2D canvas editor to handle MQTT operations. Integrated REST APIs for CRUD flow. Managed backend to handle user data",
+    "skills": ["React", "Konva.js", "Node","MUI"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "XpertizeNow",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Developed a platform to handle Specialist Consultancies on a unified platform. Revamped Redux for faster data manipulations",
     "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Flash Chat",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a mobile app to quickly send messages using Firebase and Flutter in real-time.",
+    "skills": ["Flutter", "Dart", "Firebase"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Intranet",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a complicated Corporate Intranet website and integrated it with MS-Azure for SSO",
+    "skills": ["Wordpress", "PHP", "HTML/CSS", "MS-Azure"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
