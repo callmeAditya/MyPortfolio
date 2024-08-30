@@ -12,12 +12,12 @@ export const Contact = () => {
     },
     {
       src:"contact/linkedinIcon.png",
-      href: "www.linkedin.com/in/rana-aditya90210",
+      href: "https://www.linkedin.com/in/rana-aditya90210",
       text: "/rana-aditya90210"
     },
     {
       src:"contact/githubIcon.png",
-      href: "www.github.com/callmeAditya",
+      href: "https://www.github.com/callmeAditya",
       text: "/callmeAditya"
     },
   ]
@@ -31,7 +31,7 @@ export const Contact = () => {
       { contacts.map((item,key)=> 
        <li id={key} className={"contact_link"}>
           <img src={getImageUrl(item.src)} alt="Email icon" />
-          <a href={item.href}>{item.text}</a>
+          <a href={item.href} target="_blank" >{item.text}</a>
         </li>)
         }
 
