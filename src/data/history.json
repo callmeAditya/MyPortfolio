@@ -2,13 +2,14 @@
   {
     "role": "Software Engineer",
     "organisation": "Truminds",
-    "startDate": "June, 2021",
+    "startDate": "June, 2020",
     "endDate": "July, 2023",
     "experiences": [
       "Engineered cutting-edge Full Stack Web Applications", 
       "Reduced load times by 20%",
-      "contributed to agile environment by deploying code through Git workflow",
-      "Proficient with Node.js and Server side rendering"
+      "Contributed to agile environment by deploying code through Git workflow",
+      "Proficient with Node.js and Server side rendering",
+      "Successfully migrated legacy codebase to a new platform, ensuring compatibility"
     
     ],
     "imageSrc": "history/truminds.png"

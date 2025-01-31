@@ -36,12 +36,22 @@ const About = ()=>{
               </div>
             </li>
             <li className={"aboutItem"}>
-              <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+              <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
               <div className={"aboutItemText"}>
                 <h3>UI Designer</h3>
                 <p>
                   I have designed multiple landing pages and have created design
                   systems as well
+                </p>
+              </div>
+            </li>
+            <li className={"aboutItem"}>
+              <img src={getImageUrl("about/uiIcon.png")} alt="UI icon" />
+              <div className={"aboutItemText"}>
+                <h3>Machine Learning</h3>
+                <p>
+                  I have implemented a platform that usess LLM features and 
+                  developed a model that predicts recommendation based on product.
                 </p>
               </div>
             </li>

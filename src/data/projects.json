@@ -40,5 +40,19 @@
     "description": "Developed a simplified Netflix Clone and demonstrated OLAP functionalities",
     "skills": ["React", "Laravel", "PHP","Python","PostGreSql"],
     "domain":"Academic"
+  },
+  {
+    "title": "SmartHome",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a smart home website with OpenAI Autogen features to handle fraud detecttion and recommendation system.",
+    "skills": ["React", "Node", "MySQL","OpenAI","Autogen"],
+    "domain":"Academic"
+  }  ,
+  {
+    "title": "Github Clone",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a github clone and hosted on GCP",
+    "skills": ["React", "Node", "MySQL","OpenAI","Docker","GCP"],
+    "domain":"Academic"
   }
 ]
