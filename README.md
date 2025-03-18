@@ -18,6 +18,7 @@ Before running the project, ensure you have:
 - **Node.js** (version 12 or higher)
 - **npm** (version 6 or higher)
 
+```
 MyPortfolio/
 ├── public/
 │   ├── index.html
@@ -35,5 +36,5 @@ MyPortfolio/
 │   └── ...
 ├── package.json
 └── ...
-
+```
 
