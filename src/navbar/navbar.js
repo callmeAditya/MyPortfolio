@@ -18,6 +18,9 @@ const links = [
   {
     href:"#experience",
     text: "Experience"
+  },{
+    href:"#certificates",
+    text: "Certificates"
   },
   {
     href:"#projects",

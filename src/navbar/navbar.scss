@@ -24,7 +24,7 @@
 
 .menu_items{
     display: flex;
-    gap: 47px;
+    gap: 35px;
     list-style: none;
 }
 
@@ -33,12 +33,12 @@
     cursor: pointer;;
 }
 .menu_items a{
-    font-size: 25px;
+    font-size: 18px;
     text-decoration: none;
     color: var(--color-text);
 }
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 1024px) {
 
     .navbar{
         flex-direction: column;
